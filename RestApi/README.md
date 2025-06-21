@@ -24,7 +24,7 @@ This project is a simple RESTful API built using **Node.js** and **Express.js** 
 ### 🔁 Option 1: Clone from GitHub
 
 ```bash
-git clone https://github.com/SathishS24d/RestFullApi.git
+git clone https://github.com/SathishS24d/RestFApi.git
 cd RestApi
 npm install
 npm run dev
